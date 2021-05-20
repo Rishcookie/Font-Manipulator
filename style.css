@@ -1,0 +1,24 @@
+body{
+background-image: url("backo.jpg");
+text-align: center;
+}
+
+h1{
+    font-size: 32px;
+    font-family: 'Pacifico', cursive;
+}
+
+.heading{
+    font-size: 24px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#copy_right{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    line-height:3;
+    text-align: center;
+}
